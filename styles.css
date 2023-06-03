@@ -52,6 +52,7 @@ ul{
     padding:10px;
     color:white;
     margin:30px;
+    border-radius: 150px;
 }
 .sec1-1>*{
     margin:8px;
@@ -77,6 +78,10 @@ ul{
     height: 300px;
     margin:20px;
     
+}
+.William
+{
+    border-radius: 25px;
 }
 .section-2{
     display: flex;
