@@ -133,3 +133,25 @@ ul{
 {
     height: 420px;
 }
+.container
+{
+    background-color:#3882f6 ;
+    height: 100px;
+    margin: 100px;
+    color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container-2
+{
+    margin:20px;
+}
+.Signup-btn2
+{   background-color: #3882f6;
+    width:100px;
+    height: 20px;
+    border: 1px solid white;
+    margin: 20px;
+
+}
