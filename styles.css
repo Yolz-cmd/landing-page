@@ -65,6 +65,7 @@ ul{
 {
     color:white;
     background-color: blue;
+    border-radius: 25px;
 }
 .image-1
 {
@@ -158,6 +159,7 @@ ul{
     height: 20px;
     border: 1px solid white;
     margin: 20px;
+    border-radius: 25px;
 
 }
 footer
