@@ -1,3 +1,8 @@
+.page-container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
 .head
 {
     background-color: #1F2937;
@@ -76,6 +81,7 @@ ul{
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     height: 420px;
 }
 .images-content
@@ -99,4 +105,31 @@ ul{
     margin: 10px;
     font-size: 25px;
     
+}
+.section-3
+{
+    height: 420px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.section-3>*
+{
+    margin:10px;
+}
+.Quote
+{
+    font-size: 36px;
+    font-style: italic;
+    color:#1F2937;
+    width:400px;
+    
+}
+
+.section-4
+{
+    height: 420px;
 }
