@@ -13,6 +13,7 @@ a{
 {
     font-size: 24px;
     color :white;
+    margin: 10px;
 
 }
 ul{
@@ -35,17 +36,21 @@ ul{
     display: flex;
     background-color: #1F2937;
     height: 420px;
-    justify-content: space-between;
+    justify-content: center;
+   
     
 }
 .section-1>*
 {
     height :300px;
     width:400px;
-    border: 2px solid black;
-    margin :10px;
     padding:10px;
     color:white;
+    margin:30px;
+}
+.sec1-1>*{
+    margin:8px;
+    
 }
 .sec1-1-header
 {
@@ -55,4 +60,8 @@ ul{
 {
     color:white;
     background-color: blue;
+}
+.image-1
+{
+    border: 2px solid black;
 }
