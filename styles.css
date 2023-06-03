@@ -132,6 +132,8 @@ ul{
 .section-4
 {
     height: 420px;
+    align-items: center;
+    justify-content: center;
 }
 .container
 {
@@ -142,6 +144,7 @@ ul{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    
 }
 .container-2
 {
@@ -153,5 +156,15 @@ ul{
     height: 20px;
     border: 1px solid white;
     margin: 20px;
+
+}
+footer
+{
+    color:white;
+    background-color: #1F2937;
+    height:40px;
+    padding-top:20px;
+
+    text-align: center;
 
 }
