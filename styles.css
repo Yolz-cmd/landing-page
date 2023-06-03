@@ -94,7 +94,8 @@ ul{
  width :150px;
  height: 150px;
  margin:20px;
- border: 8px solid #1F2937;
+ border: 5px solid #1F2937;
+ border-radius: 25px;
 }
 .text
 {
