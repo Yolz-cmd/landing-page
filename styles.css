@@ -28,4 +28,31 @@ ul{
 .links >*
 {
     margin:5px;
+    font: size 18px;
+}
+.section-1
+{
+    display: flex;
+    background-color: #1F2937;
+    height: 420px;
+    justify-content: space-between;
+    
+}
+.section-1>*
+{
+    height :300px;
+    width:400px;
+    border: 2px solid black;
+    margin :10px;
+    padding:10px;
+    color:white;
+}
+.sec1-1-header
+{
+    font-size:48px;
+}
+.signup-btn
+{
+    color:white;
+    background-color: blue;
 }
